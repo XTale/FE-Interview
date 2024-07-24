@@ -4,7 +4,7 @@
 
 优化回答：
 1. 在Vue中，生命周期是指从组件创建到销毁的整个过程。在这个过程中，Vue会触发一系列的钩子函数，我们可以在这些函数中插入自己的代码，以实现各种想要的功能。
-2. 
+2. 生命周期钩子函数分别为beforeCreate，created，beforeMount，mounted，beforeUpdate，updated，beforeDestroy和destroyed函数
 
 # 生命周期图示
 <img width="683" alt="image" src="https://github.com/user-attachments/assets/7a962ce7-2aa1-4687-b74b-bef9058beb0f">
