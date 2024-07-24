@@ -7,6 +7,10 @@
 2. 
 
 # 生命周期图示
-<img width="602" alt="image" src="https://github.com/user-attachments/assets/c87e76b2-36a6-49d8-88a3-f4eae28624fc">
-<img width="692" alt="image" src="https://github.com/user-attachments/assets/61e5da93-f116-4cc0-a335-5d26246b04b1">
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/7a962ce7-2aa1-4687-b74b-bef9058beb0f">
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/b8a4619c-3a04-439b-8998-20385deecf50">
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/74476b0a-ff6d-4849-9425-844ea69c2e05">
+
+
+
 
