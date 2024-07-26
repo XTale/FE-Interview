@@ -5,6 +5,8 @@
 
 盒模型包括四个部分：content(内容区)，padding（内边距），margin（外边距），border（边框）
 
+![Content Image](../../images/css/content.jpg)
+
 盒模型有两种类型，一种是w3c标准盒子，另一种是IE 怪异盒子。
 
 w3c标准盒子就是height设置的是content的高度，width设置的是content的宽度。
